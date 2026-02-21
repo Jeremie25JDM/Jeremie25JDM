@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jérémie Ndeke Museremu 👋
 
-<!--
-**Jeremie25JDM/Jeremie25JDM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student focused on building practical management systems and scalable software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Organizer at **GDG Bukavu**
+- Software Engineering student  
+- Focused on desktop and web application development  
+- Strong interest in **JavaScript, React, system architecture and accounting systems**
+- Interested in **AI integration in web applications**
+
+I enjoy building structured systems, writing clean code, and solving real-world problems.
+
+---
+
+## Community
+
+- Organizer at **GDG Bukavu**
+- Mentoring and supporting students in software development
+- Participating in developer events and tech initiatives
+- Passionate about community growth and knowledge sharing
+
+---
+
+## Tech Interests
+
+- Offline-first applications  
+- AI integration in web applications  
+- Modern Web Technologies  
+
+---
+
+## Contact
+
+📧 Email: jeremiendekemuseremu25@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/jeremiendeke
