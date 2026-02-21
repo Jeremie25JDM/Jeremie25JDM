@@ -9,7 +9,7 @@ Software engineering student focused on building practical management systems an
 - Organizer at **GDG Bukavu**
 - Software Engineering student  
 - Focused on desktop and web application development  
-- Strong interest in **JavaScript, React, system architecture and accounting systems**
+- Strong interest in **JavaScript, React,Angular, system architecture and accounting systems**
 - Interested in **AI integration in web applications**
 
 I enjoy building structured systems, writing clean code, and solving real-world problems.
