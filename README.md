@@ -1,30 +1,32 @@
 # Hi, I'm Jérémie Ndeke Museremu 👋
 
-Software engineering student focused on building practical management systems and scalable software solutions.
+**Web Developer | ReactJS • Firebase • ExpressJS • Angular | Desktop Apps with Python | IoT Enthusiast | GDG BUKAVU Organizer | Software Engineering Student**
+
+Building practical systems and scalable software solutions that solve real-world problems.
 
 ---
 
 ## About Me
 
 - Organizer at **GDG Bukavu**
-- Software Engineering student  
-- Focused on desktop and web application development  
-- Strong interest in **JavaScript, React,Angular, system architecture and accounting systems**
-- Interested in **AI integration in web applications**
+- Software Engineering student
+- Focused on modern web and desktop application development
+- Strong interest in system architecture and accounting systems
+- Interested in AI integration in web applications
 
-I enjoy building structured systems, writing clean code, and solving real-world problems.
+I enjoy designing structured systems, writing clean and maintainable code, and building solutions that create real impact.
 
 ---
 
 ## Community
 
 - Organizer at **GDG Bukavu**
-- Mentoring and supporting students in software development
-- Participating in developer events and tech initiatives
-- Passionate about community growth and knowledge sharing
+- Supporting and mentoring students in tech
+- Participating in developer events and knowledge sharing initiatives
+
+I believe in community growth and continuous learning.
 
 ---
-
 ## Tech Interests
 
 - Offline-first applications  
