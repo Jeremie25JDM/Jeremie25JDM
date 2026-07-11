@@ -1,6 +1,6 @@
 # Hi, I'm Jérémie Ndeke Museremu 👋
 
-**Web Developer | ReactJS • Firebase • ExpressJS • Angular | Desktop Apps with Python | IoT Enthusiast | GDG BUKAVU Organizer | Software Engineering Student**
+** Software Engineering Student**
 
 Building practical systems and scalable software solutions that solve real-world problems.
 
